@@ -28,3 +28,6 @@ Doc link - https://docs.google.com/document/d/1gc8bVhnSMmL7so5FnRdXV7pbdpZUEnGpJ
 * *GPT-3.5-Turbo and DALL-E Integration*:  Integrating GPT-3.5-Turbo and DALL-E allows the application to deliver context-aware replies by taking advantage of their enormous capabilities for text generation and image creation, respectively.
 * *Voice Output*: The application transforms output text into a voice recording, creating a more engaging interaction and improving accessibility.
 * *Intelligent Prompt Generation*: The program creates prompts for ChatGPT, ensuring relevant and instructive responses, by relying on word likelihood indices recognized from user input.
+
+# Demo Image
+<img src="https://github.com/Himanshu-14-12/Voice_Assist/assets/94479188/cf992e17-018a-4b8f-9cd5-a3f1ef150530" width="30%" height="60%">
